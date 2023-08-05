@@ -1,0 +1,25 @@
+.box {
+    background-color: rgb(228, 238, 238);
+    display: flex;
+    flex-direction: column;
+    flex: 1
+    color: purple;
+    font-weight: bold;
+    border: 
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px; 
+    text-align: justify;
+    margin: 50px;
+    
+    
+
+.img-with-text {
+    text-align: justify;
+    width: [width of image];
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
